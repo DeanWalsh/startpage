@@ -5,7 +5,7 @@
     padding: 0;
     font-family: 'CustomFont', pixelmixregular;
     overflow: hidden;}
-#body { 
+#body {  
     height: 100vh;
     color: rgb(0, 0, 0);}
 .early-morning {background-image: url(/img/01-Early-Morning.png);}
